@@ -4,7 +4,11 @@
 Easy installation for all users
 
 cd $HOME
+
 git clone https://github.com/waledsobhyt4-ui/Termux-Toolkit-Osint-.git
+
 cd Termux-Toolkit-Osint-
+
 chmod +x ostoolkit.sh
+
 ./ostoolkit.sh
